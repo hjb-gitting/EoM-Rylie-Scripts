@@ -1,5 +1,5 @@
 import itertools
-text = "A heavily ripped divine back"
+text = "INSERT TEXT TO BE FORMATTED HERE"
 
 def alternating(text, c1, c2):
     textf = list(text)
@@ -69,6 +69,6 @@ def triplealternate(text, c1, c2, c3):
 
     return "".join(form)
     
-
+#The colour codes go here into the function
 print(alternating(text, "~L7", "~G2"))
 #print(triplealternate(text, "~W9", "~W8", "~W7"))
