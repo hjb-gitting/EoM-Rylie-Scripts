@@ -231,7 +231,7 @@ def demonstrate_examples():
 
 def main():
     """Main function to run the tilde prefix generator."""
-    print("Welcome to the Tilde Prefix Pattern Generator! 🌊")
+    print("Welcome to the Colour Code Pattern Generator! 🌊")
     
     while True:
         print("\n📋 Options:")
